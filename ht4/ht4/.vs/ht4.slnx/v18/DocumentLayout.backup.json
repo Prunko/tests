@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\nuclearreactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\nuclearreactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\stationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\stationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\storageunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\storageunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\solarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\solarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\ienergysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\ienergysource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\sciencemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\sciencemodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\lifesupportmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\lifesupportmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|e:\\programming\\hillelc#pro\\ht4\\ht4\\ht4\\stationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E13BA26-7C47-5D15-7413-2D532F75CE8E}|ht4\\ht4.csproj|solutionrelative:ht4\\stationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StationLog.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\StationLog.cs",
+              "RelativeDocumentMoniker": "ht4\\StationLog.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\StationLog.cs*",
+              "RelativeToolTip": "ht4\\StationLog.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:52:01.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StorageUnit.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\StorageUnit.cs",
+              "RelativeDocumentMoniker": "ht4\\StorageUnit.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\StorageUnit.cs",
+              "RelativeToolTip": "ht4\\StorageUnit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:48:13.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NuclearReactor.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\NuclearReactor.cs",
+              "RelativeDocumentMoniker": "ht4\\NuclearReactor.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\NuclearReactor.cs",
+              "RelativeToolTip": "ht4\\NuclearReactor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:52:38.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SolarPanel.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\SolarPanel.cs",
+              "RelativeDocumentMoniker": "ht4\\SolarPanel.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\SolarPanel.cs",
+              "RelativeToolTip": "ht4\\SolarPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:39:43.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEnergySource.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\IEnergySource.cs",
+              "RelativeDocumentMoniker": "ht4\\IEnergySource.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\IEnergySource.cs",
+              "RelativeToolTip": "ht4\\IEnergySource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:37:41.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScienceModule.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\ScienceModule.cs",
+              "RelativeDocumentMoniker": "ht4\\ScienceModule.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\ScienceModule.cs",
+              "RelativeToolTip": "ht4\\ScienceModule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:51:25.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LifeSupportModule.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\LifeSupportModule.cs",
+              "RelativeDocumentMoniker": "ht4\\LifeSupportModule.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\LifeSupportModule.cs",
+              "RelativeToolTip": "ht4\\LifeSupportModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:51:07.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StationModule.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\StationModule.cs",
+              "RelativeDocumentMoniker": "ht4\\StationModule.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\StationModule.cs",
+              "RelativeToolTip": "ht4\\StationModule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:41:21.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\Program.cs",
+              "RelativeDocumentMoniker": "ht4\\Program.cs",
+              "ToolTip": "E:\\Programming\\HillelC#Pro\\ht4\\ht4\\ht4\\Program.cs*",
+              "RelativeToolTip": "ht4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:35:03.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
