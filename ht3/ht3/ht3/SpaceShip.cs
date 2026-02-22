@@ -4,32 +4,11 @@ using System.Text;
 
 namespace ht3
 {
-    public struct Coordinates
-    {
-        public double x { get; set; }
-        public double y { get; set; }
-        public double z { get; set; }
-
-        public Coordinates(double x, double y, double z)
-        {
-            this.x = x;
-            this.y = y;
-            this.z = z;
-        }
-
-        public double GetDistance(Coordinates other)
-        {
-            double d = Math.Sqrt(Math.Pow(other.x - x, 2) + Math.Pow(other.y - y, 2) + Math.Pow(other.z - z, 2));
-            return d;
-        }
-    }
-
-    public record CargoManifest(string Name, double Weight, string Category);
-
     public class SpaceShip
     {
         private double _fuel;
         private List<CargoManifest> _cargoManifests;
+
         public string Name { get; init; }
         public Coordinates CurrentPosition { get; set; }
         public double MaxCapacity { get; set; }
@@ -41,7 +20,7 @@ namespace ht3
             MaxCapacity = maxCapacity;
         }
 
-        public SpaceShip(double fuel, List<CargoManifest> cargoManifests, string name, Coordinates currentPosition, 
+        public SpaceShip(double fuel, List<CargoManifest> cargoManifests, string name, Coordinates currentPosition,
             double maxCapacity) : this(name, maxCapacity)
         {
             _fuel = fuel;
@@ -55,14 +34,15 @@ namespace ht3
             {
                 _cargoManifests.Add(item);
                 currentWeight += item.Weight;
-            } else { Console.WriteLine("There's no space!"); }
+            }
+            else { Console.WriteLine("There's no space!"); }
         }
 
         public void PrintCargoNames()
         {
             foreach (var cargo in _cargoManifests)
             {
-                Console.Write("\n\t-" + cargo.Name + "; "); 
+                Console.Write("\n\t-" + cargo.Name + "; ");
             }
         }
 
@@ -71,7 +51,7 @@ namespace ht3
             double distance = CurrentPosition.GetDistance(newPosition);
             double fuelUsed = distance / 10;
             CurrentPosition = newPosition;
-            _fuel -= fuelUsed; 
+            _fuel -= fuelUsed;
         }
 
         public void PrintCurrentPosition()
