@@ -9,13 +9,11 @@ builder.Services.AddControllers(options =>
 })
 .AddJsonOptions(options =>
 {
-    // ПРАВИЛЬНО: використовуємо JsonSerializerOptions замість SerializerOptions
     options.JsonSerializerOptions.TypeInfoResolverChain.Insert(0, AppJsonContext.Default);
 });
 
 builder.Services.AddScoped<IOrderService, OrderService>();
 
-// Додаємо Swagger, щоб замість 404 відкривався інтерфейс
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -27,7 +25,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(options =>
     {
         options.SwaggerEndpoint("/swagger/v1/swagger.json", "v1");
-        options.RoutePrefix = string.Empty; // Робить Swagger головною сторінкою
+        options.RoutePrefix = string.Empty;
     });
 }
 
